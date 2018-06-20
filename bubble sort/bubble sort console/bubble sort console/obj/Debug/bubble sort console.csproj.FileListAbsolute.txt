@@ -1,0 +1,7 @@
+C:\Users\recat\Desktop\C#\bubble sort\bubble sort console\bubble sort console\bin\Debug\bubble sort console.exe.config
+C:\Users\recat\Desktop\C#\bubble sort\bubble sort console\bubble sort console\bin\Debug\bubble sort console.exe
+C:\Users\recat\Desktop\C#\bubble sort\bubble sort console\bubble sort console\bin\Debug\bubble sort console.pdb
+C:\Users\recat\Desktop\C#\bubble sort\bubble sort console\bubble sort console\obj\Debug\bubble sort console.csprojResolveAssemblyReference.cache
+C:\Users\recat\Desktop\C#\bubble sort\bubble sort console\bubble sort console\obj\Debug\bubble sort console.csproj.CoreCompileInputs.cache
+C:\Users\recat\Desktop\C#\bubble sort\bubble sort console\bubble sort console\obj\Debug\bubble sort console.exe
+C:\Users\recat\Desktop\C#\bubble sort\bubble sort console\bubble sort console\obj\Debug\bubble sort console.pdb
